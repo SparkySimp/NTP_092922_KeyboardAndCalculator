@@ -64,3 +64,4 @@
 
 * linguist-detectable
 *.csproj -linguist-detectable
+*.resx -linguist-detectable #remove xml dominance in linguist
