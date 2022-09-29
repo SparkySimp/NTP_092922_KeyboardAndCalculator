@@ -63,3 +63,4 @@
 #*.RTF   diff=astextplain
 
 * linguist-detectable
+*.csproj -linguist-detectable
