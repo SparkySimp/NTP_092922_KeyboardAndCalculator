@@ -62,6 +62,8 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-* linguist-detectable
-*.csproj -linguist-detectable
-*.resx -linguist-detectable #remove xml dominance in linguist
+# * linguist-detectable
+# *.csproj -linguist-detectable
+# *.resx -linguist-detectable #remove xml dominance in linguist
+
+# STASH LINGUIST CHANGES
